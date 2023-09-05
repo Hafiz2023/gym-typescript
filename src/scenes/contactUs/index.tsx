@@ -46,9 +46,14 @@ const ContactUs = ({ setSelectedPage }: Props) => {
             <span className="text-primary-500">JOIN NOW</span> TO GET IN SHAPE
           </HText>
           <p className="my-5">
-            Congue adipiscing risus commodo placerat. Tellus et in feugiat nisl
-            sapien vel rhoncus. Placerat at in enim pellentesque. Nulla
-            adipiscing leo egestas nisi elit risus sit. Nunc cursus sagittis.
+            It's an invitation to take action without delay. "Getting in shape"
+            means improving one's physical fitness, health, and overall
+            well-being through activities such as exercise, training, and
+            adopting a healthier lifestyle. it's urging you to sign up for the
+            offered services or program right away to start your journey toward
+            achieving better physical fitness and health. It emphasizes the
+            opportunity to take positive steps toward a healthier lifestyle and
+            improved body condition.
           </p>
         </motion.div>
 

@@ -7,11 +7,14 @@ const Footer = () => {
         <div className="mt-16 basis-1/2 md:mt-0">
           <img alt="logo" src={Logo} />
           <p className="my-5">
-            Lorem vitae ut augue auctor faucibus eget eget ut libero. Elementum
-            purus et arcu massa dictum condimentum. Augue scelerisque iaculis
-            orci ut habitant laoreet. Iaculis tristique.
+            Our members tell us that they love our gym and the competitive
+            atmosphere to be better. We are a gym for people that are serious
+            about their health and fitness. Our gym is almost at capacity for
+            monthly members because we want to make sure we don't get
+            overcrowded.
           </p>
           <p>© Evogym All Rights Reserved.</p>
+          <p> github@Hafiz2023</p>
         </div>
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Links</h4>
@@ -21,8 +24,8 @@ const Footer = () => {
         </div>
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Contact Us</h4>
-          <p className="my-5">Tempus metus mattis risus volutpat egestas.</p>
-          <p>(333)425-6825</p>
+          <p className="my-5">24/7 Whatsapp.</p>
+          <p>+92320-4338215</p>
         </div>
       </div>
     </footer>

@@ -131,18 +131,26 @@ const Benefits = ({ setSelectedPage }: Props) => {
               }}
             >
               <p className="my-5">
-                Nascetur aenean massa auctor tincidunt. Iaculis potenti amet
-                egestas ultrices consectetur adipiscing ultricies enim. Pulvinar
-                fames vitae vitae quis. Quis amet vulputate tincidunt at in
-                nulla nec. Consequat sed facilisis dui sit egestas ultrices
-                tellus. Ullamcorper arcu id pretium sapien proin integer nisl.
-                Felis orci diam odio.
+                The phrase "MILLIONS OF HAPPY MEMBERS GETTING FIT" is an
+                expression used to convey that there are millions of people who
+                are members of a fitness program, gym, or health-related
+                community, and they are experiencing positive results in terms
+                of improving their physical fitness and overall well-being.
+                Here's a breakdown of the key elements: "MILLIONS OF": This part
+                indicates a very large number, in this case, millions of people.
+                "HAPPY MEMBERS": These are individuals who are satisfied and
+                content with their experience as part of the fitness program or
+                community.
               </p>
               <p className="mb-5">
-                Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-                tellus quam porttitor. Mauris velit euismod elementum arcu neque
-                facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-                enim mattis odio in risus nunc.
+              "GETTING FIT": This means that these members are
+                actively working on improving their physical fitness, which may
+                involve activities such as exercise, training, dieting, and
+                adopting a healthier lifestyle. the emphasizes that a vast
+                number of people are enjoying their membership, finding success
+                in their fitness journeys, and experiencing positive outcomes.
+                It's often used in promotional materials to highlight the
+                effectiveness and popularity of a fitness program or facility.
               </p>
             </motion.div>
 
